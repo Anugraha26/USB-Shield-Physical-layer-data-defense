@@ -2,7 +2,7 @@ USB Shield: Physical Layer Data Defense in Public Ports
 
 Overview
 
-USB Shield is a hardware-based cybersecurity project designed to protect users from potential juice-jacking attacks through public USB charging ports.
+USB Shield is a software cum hardware based cybersecurity project designed to protect users from potential juice-jacking attacks through public USB charging ports.
 
 The system monitors USB physical-layer communication lines (D+ and D−) and detects suspicious handshake activity that may indicate unauthorized data transfer attempts. Using an Arduino Nano, the system analyzes line activity and provides visual alerts to help users identify safe and unsafe charging environments.
 
